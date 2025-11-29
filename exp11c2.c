@@ -1,0 +1,1 @@
+//2.	Write a program to apply left shift and right shift operator.
